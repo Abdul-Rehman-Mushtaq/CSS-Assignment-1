@@ -1,0 +1,38 @@
+p{
+    font-size:50px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 10px;
+}
+div{
+    width: 600px;
+    height: 150px;
+}
+.d{
+    background-color: #0065b3;
+    
+}
+.s{
+    background-color: black;
+}
+.p{
+    background-color: #ffffff;
+
+}
+.b{
+    background-color: #ed1b24;
+}
+.o{
+    background-color: white;
+}
+.z{
+    background-color: black;
+}
+.y{
+    background-color: #be0026;
+}
+.g2{
+    background-color: #3c5aa3;
+}
+.r2{
+    background-color: #e2ae58;
+}
